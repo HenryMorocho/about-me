@@ -1,0 +1,33 @@
+about:
+  name: Henry Morocho
+  location: "Corona, New York"
+  timezone: GMT-4
+  hobbies:
+    - "Playing soccer,eating good food"
+  favorite_resources:
+    - "Microelectronics by Sedra/Smith"
+    - "Wall Street Journal"
+# be a mentor
+bam:
+  skills:
+    - 
+    -
+    - 
+  languages/paradigms:
+    - ["C++", 4]
+    - ["Java", 2]
+  frameworks/libraries/concepts:
+    # list in order of most recent
+    - None
+# seek a mentor
+sam:
+  skills:
+    - ""
+    - "Lack of hyper scale experience"
+    - Security Networking
+  languages/paradigms:
+    - [Go, 6]
+    - [Ruby, 6]
+  frameworks/libraries/concepts:
+    - [Phoniex, 5]
+    - [Rails, 6]
