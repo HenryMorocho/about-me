@@ -10,8 +10,8 @@ about:
 # be a mentor
 bam:
   skills:
+    - ARM Embedded proramming NXP1768
     -  
-    - ARM Embedded proramming 
     - 
   languages/paradigms:
     - ["C++", 4]
